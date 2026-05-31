@@ -1,0 +1,31 @@
+{
+  "id": 3,
+  "title": "Berpikir Kritis Kunci Sukses Bersama",
+  "questions": [
+    {
+      "question": "Jika pensilmu hilang, apa yang harus dilakukan?",
+      "options": ["Menangis saja", "Mencari dengan tenang", "Marah", "Pulang"],
+      "answer": 1
+    },
+    {
+      "question": "Saat melihat dua jalan, kita harus...",
+      "options": ["Memilih sembarang", "Berpikir dulu", "Berlari", "Menutup mata"],
+      "answer": 1
+    },
+    {
+      "question": "Mengapa kita harus bertanya jika tidak mengerti?",
+      "options": ["Agar paham", "Agar dimarahi", "Agar pulang", "Agar diam"],
+      "answer": 0
+    },
+    {
+      "question": "Lampu tidak menyala. Apa yang perlu diperiksa?",
+      "options": ["Mainannya", "Bukunya", "Saklar lampu", "Sepatunya"],
+      "answer": 2
+    },
+    {
+      "question": "Berpikir sebelum bertindak membuat kita...",
+      "options": ["Lebih bijak", "Bingung", "Sedih", "Marah"],
+      "answer": 0
+    }
+  ]
+}

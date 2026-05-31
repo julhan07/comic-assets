@@ -1,0 +1,31 @@
+{
+  "id": 2,
+  "title": "Bersatu Dalam Gotong Royong",
+  "questions": [
+    {
+      "question": "Saat kelas kotor, kita sebaiknya...",
+      "options": ["Membiarkannya", "Membersihkan bersama", "Pulang", "Bermain"],
+      "answer": 1
+    },
+    {
+      "question": "Gotong royong artinya...",
+      "options": ["Bekerja sendiri", "Bermain sendiri", "Bekerja bersama-sama", "Tidur bersama"],
+      "answer": 2
+    },
+    {
+      "question": "Jika teman kesulitan membawa buku, kita...",
+      "options": ["Menertawakan", "Membantu", "Mengabaikan", "Pergi"],
+      "answer": 1
+    },
+    {
+      "question": "Saat bermain kelompok, kita harus...",
+      "options": ["Bertengkar", "Saling membantu", "Menang sendiri", "Marah"],
+      "answer": 1
+    },
+    {
+      "question": "Manfaat gotong royong adalah...",
+      "options": ["Pekerjaan lebih ringan", "Lebih sulit", "Lebih lama", "Membosankan"],
+      "answer": 0
+    }
+  ]
+}

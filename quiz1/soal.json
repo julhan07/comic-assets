@@ -1,0 +1,31 @@
+{
+  "id": 1,
+  "title": "Beriman Bertakwa dan Berakhlak Mulia",
+  "questions": [
+    {
+      "question": "Apa yang kita lakukan sebelum makan?",
+      "options": ["Bermain", "Berdoa", "Tidur", "Menonton TV"],
+      "answer": 1
+    },
+    {
+      "question": "Saat bertemu guru, kita harus...",
+      "options": ["Diam saja", "Berlari", "Memberi salam", "Sembunyi"],
+      "answer": 2
+    },
+    {
+      "question": "Jika meminjam mainan teman, kita harus...",
+      "options": ["Merusaknya", "Membawanya pulang", "Mengembalikannya", "Menyembunyikannya"],
+      "answer": 2
+    },
+    {
+      "question": "Mengucapkan terima kasih adalah contoh...",
+      "options": ["Akhlak baik", "Bermain", "Belajar", "Berlari"],
+      "answer": 0
+    },
+    {
+      "question": "Jika melakukan kesalahan, kita harus...",
+      "options": ["Marah", "Kabur", "Meminta maaf", "Menangis"],
+      "answer": 2
+    }
+  ]
+}

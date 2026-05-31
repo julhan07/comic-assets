@@ -1,0 +1,31 @@
+{
+  "id": 4,
+  "title": "Mandiri Kekuatan Dalam Diri",
+  "questions": [
+    {
+      "question": "Siapa yang sebaiknya merapikan tempat tidur?",
+      "options": ["Tetangga", "Teman", "Diri sendiri", "Guru"],
+      "answer": 2
+    },
+    {
+      "question": "Saat memakai sepatu, kita harus...",
+      "options": ["Menunggu teman", "Memakai sendiri", "Menangis", "Bermain"],
+      "answer": 1
+    },
+    {
+      "question": "Mandiri berarti...",
+      "options": ["Selalu dibantu", "Tidak mau belajar", "Melakukan sesuatu sendiri", "Bermain terus"],
+      "answer": 2
+    },
+    {
+      "question": "Jika tugas sekolah mudah, kita harus...",
+      "options": ["Mengerjakan sendiri", "Menyalin teman", "Tidur", "Bermain"],
+      "answer": 0
+    },
+    {
+      "question": "Anak mandiri biasanya...",
+      "options": ["Percaya diri", "Pemalu", "Takut mencoba", "Malas"],
+      "answer": 0
+    }
+  ]
+}

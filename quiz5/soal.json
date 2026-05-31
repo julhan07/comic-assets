@@ -1,0 +1,31 @@
+{
+  "id": 5,
+  "title": "Berkebinekaan Global Satu Dunia Banyak Warna",
+  "questions": [
+    {
+      "question": "Teman kita bisa berasal dari...",
+      "options": ["Daerah berbeda", "Satu rumah", "Satu kelas saja", "Satu bangku"],
+      "answer": 0
+    },
+    {
+      "question": "Jika teman berbeda suku, kita harus...",
+      "options": ["Menghormati", "Mengejek", "Menjauhi", "Marah"],
+      "answer": 0
+    },
+    {
+      "question": "Warna kulit teman berbeda-beda. Kita harus...",
+      "options": ["Bertengkar", "Menghormati", "Mengejek", "Menolak berteman"],
+      "answer": 1
+    },
+    {
+      "question": "Indonesia memiliki banyak...",
+      "options": ["Mainan", "Suku dan budaya", "Sekolah", "Tas"],
+      "answer": 1
+    },
+    {
+      "question": "Perbedaan membuat dunia menjadi...",
+      "options": ["Membosankan", "Berwarna dan indah", "Menakutkan", "Sulit"],
+      "answer": 1
+    }
+  ]
+}

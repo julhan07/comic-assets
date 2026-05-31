@@ -1,0 +1,31 @@
+{
+  "id": 6,
+  "title": "Kreatif Dalam Keberagaman",
+  "questions": [
+    {
+      "question": "Menggambar adalah kegiatan...",
+      "options": ["Kreatif", "Marah", "Tidur", "Sedih"],
+      "answer": 0
+    },
+    {
+      "question": "Jika ingin membuat karya baru, kita harus...",
+      "options": ["Mencoba ide baru", "Diam", "Menunggu", "Meniru terus"],
+      "answer": 0
+    },
+    {
+      "question": "Setiap anak memiliki...",
+      "options": ["Ide yang sama", "Ide berbeda-beda", "Mainan sama", "Tas sama"],
+      "answer": 1
+    },
+    {
+      "question": "Membuat kolase dari daun adalah contoh...",
+      "options": ["Kreativitas", "Kemalasan", "Bermain bola", "Tidur"],
+      "answer": 0
+    },
+    {
+      "question": "Teman memiliki karya berbeda dengan kita. Kita harus...",
+      "options": ["Menghargai", "Mengejek", "Merobek", "Menyembunyikan"],
+      "answer": 0
+    }
+  ]
+}
