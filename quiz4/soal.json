@@ -3,29 +3,104 @@
   "title": "Mandiri Kekuatan Dalam Diri",
   "questions": [
     {
-      "question": "Siapa yang sebaiknya merapikan tempat tidur?",
-      "options": ["Tetangga", "Teman", "Diri sendiri", "Guru"],
-      "answer": 2
+      "question": "Di mana lima anak berkumpul untuk membahas tentang mandiri?",
+      "options": [
+        "Di taman yang hijau dengan latar belakang kota",
+        "Di ruang kelas",
+        "Di balai desa",
+        "Di ruang pameran"
+      ],
+      "answer": 0
     },
     {
-      "question": "Saat memakai sepatu, kita harus...",
-      "options": ["Menunggu teman", "Memakai sendiri", "Menangis", "Bermain"],
+      "question": "Menurut tokoh dalam komik, mandiri itu bukan hanya bisa melakukan segala sesuatu sendiri, tetapi juga ...",
+      "options": [
+        "tidak pernah meminta bantuan",
+        "tahu kapan kita perlu meminta bantuan",
+        "menyuruh orang lain mengerjakan tugas kita",
+        "selalu bekerja sendirian"
+      ],
       "answer": 1
     },
     {
-      "question": "Mandiri berarti...",
-      "options": ["Selalu dibantu", "Tidak mau belajar", "Melakukan sesuatu sendiri", "Bermain terus"],
+      "question": "Tokoh dari Bali belajar membuat canang sari. Apa yang ia pelajari dari kegiatan tersebut?",
+      "options": [
+        "Cara memasak",
+        "Cara berburu",
+        "Tanggung jawab",
+        "Cara bermain musik"
+      ],
       "answer": 2
     },
     {
-      "question": "Jika tugas sekolah mudah, kita harus...",
-      "options": ["Mengerjakan sendiri", "Menyalin teman", "Tidur", "Bermain"],
+      "question": "Tokoh dari Betawi suka mengerjakan PR sendiri. Apa yang ia lakukan jika ada soal yang sulit?",
+      "options": [
+        "Meninggalkan soal itu",
+        "Menyontek pekerjaan teman",
+        "Meminta orang tua mengerjakannya",
+        "Bertanya kepada teman atau guru"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "Tokoh dari Aceh pernah gagal dalam ujian. Apa yang ia lakukan setelah itu?",
+      "options": [
+        "Belajar untuk tidak menyerah dan mencari cara yang lebih baik di ujian berikutnya",
+        "Berhenti belajar",
+        "Menyalahkan guru",
+        "Tidak mau mengikuti ujian lagi"
+      ],
       "answer": 0
     },
     {
-      "question": "Anak mandiri biasanya...",
-      "options": ["Percaya diri", "Pemalu", "Takut mencoba", "Malas"],
+      "question": "Tokoh dari Sunda sering mengalami pemadaman listrik di rumah. Apa yang ia pelajari dari pengalaman itu?",
+      "options": [
+        "Selalu meminta bantuan tetangga",
+        "Hidup mandiri tanpa terlalu bergantung pada listrik",
+        "Pindah ke rumah lain",
+        "Tidak melakukan apa-apa saat listrik padam"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Karya apa yang dibuat oleh tokoh dari Betawi?",
+      "options": [
+        "Puisi tentang tanah kelahiran",
+        "Alat musik tradisional",
+        "Cerita pendek tentang kehidupan di Jakarta",
+        "Lukisan dari bahan alam"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Apa yang dilakukan tokoh dari Sunda agar semua kegiatannya berjalan lancar?",
+      "options": [
+        "Bermain sepanjang hari",
+        "Meminta orang tua mengatur waktunya",
+        "Mengerjakan semua tugas di malam hari",
+        "Membuat jadwal kegiatan harian"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "\"Mandiri bukan berarti kita tidak butuh orang lain, tapi kita belajar untuk ...\" Lanjutan kalimat yang tepat sesuai komik adalah ...",
+      "options": [
+        "bertanggung jawab atas diri kita sendiri",
+        "menjauhi teman-teman",
+        "menang dari orang lain",
+        "tidak pernah meminta bantuan"
+      ],
       "answer": 0
+    },
+    {
+      "question": "Kamu mengalami kesulitan saat mengerjakan PR matematika. Sikap mandiri yang paling tepat adalah ...",
+      "options": [
+        "langsung meminta kakak mengerjakannya",
+        "mencoba mengerjakan sendiri terlebih dahulu, lalu bertanya jika masih belum paham",
+        "tidak mengerjakan PR tersebut",
+        "menyalin jawaban teman keesokan harinya"
+      ],
+      "answer": 1
     }
   ]
 }

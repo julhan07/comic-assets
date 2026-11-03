@@ -3,29 +3,104 @@
   "title": "Berpikir Kritis Kunci Sukses Bersama",
   "questions": [
     {
-      "question": "Jika pensilmu hilang, apa yang harus dilakukan?",
-      "options": ["Menangis saja", "Mencari dengan tenang", "Marah", "Pulang"],
+      "question": "Masalah apa yang dibahas anak-anak di sekolah mereka?",
+      "options": [
+        "Banjir di sekitar sekolah",
+        "Banyaknya sampah yang menumpuk di sekitar sekolah",
+        "Kurangnya buku di perpustakaan",
+        "Jalan menuju sekolah yang rusak"
+      ],
       "answer": 1
     },
     {
-      "question": "Saat melihat dua jalan, kita harus...",
-      "options": ["Memilih sembarang", "Berpikir dulu", "Berlari", "Menutup mata"],
-      "answer": 1
-    },
-    {
-      "question": "Mengapa kita harus bertanya jika tidak mengerti?",
-      "options": ["Agar paham", "Agar dimarahi", "Agar pulang", "Agar diam"],
-      "answer": 0
-    },
-    {
-      "question": "Lampu tidak menyala. Apa yang perlu diperiksa?",
-      "options": ["Mainannya", "Bukunya", "Saklar lampu", "Sepatunya"],
+      "question": "Menurut Siti, berpikir kritis artinya ...",
+      "options": [
+        "langsung percaya pada setiap informasi",
+        "mengikuti pendapat teman yang paling banyak",
+        "tidak langsung percaya, mencari tahu lebih dalam, dan bertanya kenapa dan bagaimana",
+        "diam saja ketika ada masalah"
+      ],
       "answer": 2
     },
     {
-      "question": "Berpikir sebelum bertindak membuat kita...",
-      "options": ["Lebih bijak", "Bingung", "Sedih", "Marah"],
+      "question": "Jika ada berita tentang cuaca buruk, apa yang sebaiknya dilakukan menurut komik?",
+      "options": [
+        "Mengecek kebenarannya di aplikasi atau situs yang terpercaya",
+        "Langsung panik dan menyebarkan berita itu",
+        "Mengabaikan berita itu",
+        "Ikut-ikutan khawatir seperti orang lain"
+      ],
       "answer": 0
+    },
+    {
+      "question": "Apa langkah pertama yang dilakukan anak-anak untuk mengatasi masalah sampah?",
+      "options": [
+        "Membuat poster",
+        "Mengadakan lomba kebersihan",
+        "Meminta bantuan orang tua",
+        "Menemukan penyebab utama masalah"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "Berikut ini adalah ide yang diusulkan anak-anak untuk mengatasi masalah sampah, KECUALI ...",
+      "options": [
+        "menambah tempat sampah di beberapa titik",
+        "membuat poster tentang pentingnya kebersihan",
+        "mengadakan lomba kebersihan antarkelas",
+        "menutup kantin sekolah"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "Kepada siapa anak-anak mempresentasikan ide mereka?",
+      "options": [
+        "Kepala desa dan warga",
+        "Kepala sekolah dan teman-teman kelas",
+        "Orang tua murid",
+        "Pengunjung pameran"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Apa hasil evaluasi program kebersihan beberapa minggu kemudian?",
+      "options": [
+        "Sekolah menjadi lebih kotor",
+        "Program kebersihan dihentikan",
+        "Sekolah lebih bersih, tetapi masih ada yang lupa membuang sampah pada tempatnya",
+        "Semua siswa sudah membuang sampah pada tempatnya"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Ide apa yang diusulkan untuk mengatasi kurangnya partisipasi teman-teman?",
+      "options": [
+        "Memberi reward untuk kelas terbersih dan membuat pengingat rutin di papan pengumuman",
+        "Menghukum siswa yang membuang sampah sembarangan",
+        "Membersihkan sekolah sendirian",
+        "Membiarkan saja karena sudah cukup bersih"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Setelah berhasil di sekolah, anak-anak memperluas proyek kebersihan ke ...",
+      "options": [
+        "sekolah lain di kota",
+        "desa sekitar, dengan memikirkan cara mengurangi sampah plastik",
+        "taman kota",
+        "pasar tradisional"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Urutan langkah anak-anak dalam menyelesaikan masalah sampah yang benar adalah ...",
+      "options": [
+        "melaksanakan – menemukan penyebab – mengevaluasi – menyusun solusi",
+        "menyusun solusi – mengevaluasi – melaksanakan – menemukan penyebab",
+        "menemukan penyebab – menyusun solusi – melaksanakan – mengevaluasi",
+        "mengevaluasi – melaksanakan – menyusun solusi – menemukan penyebab"
+      ],
+      "answer": 2
     }
   ]
 }

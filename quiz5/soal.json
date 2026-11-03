@@ -3,29 +3,94 @@
   "title": "Berkebinekaan Global Satu Dunia Banyak Warna",
   "questions": [
     {
-      "question": "Teman kita bisa berasal dari...",
-      "options": ["Daerah berbeda", "Satu rumah", "Satu kelas saja", "Satu bangku"],
+      "question": "Proyek bersama apa yang dibuat oleh anak-anak dalam Tema E?",
+      "options": [
+        "Lomba kebersihan antarkelas",
+        "Acara berbagi makanan",
+        "Pameran budaya dengan stan untuk setiap suku",
+        "Kerja bakti di taman desa"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Apa yang dimaksud dengan berkebinekaan global menurut komik?",
+      "options": [
+        "Menghargai keberagaman budaya, suku, dan agama di seluruh dunia",
+        "Hanya menyukai budaya sendiri",
+        "Membuat semua budaya menjadi sama",
+        "Bepergian ke luar negeri"
+      ],
       "answer": 0
     },
     {
-      "question": "Jika teman berbeda suku, kita harus...",
-      "options": ["Menghormati", "Mengejek", "Menjauhi", "Marah"],
+      "question": "Budaya Aceh yang akan dipamerkan adalah ...",
+      "options": ["angklung", "gambang kromong", "ukiran kayu", "tari Saman"],
+      "answer": 3
+    },
+    {
+      "question": "Gambang kromong adalah alat musik dari daerah ...",
+      "options": ["Bali", "Betawi", "Sunda", "Papua"],
+      "answer": 1
+    },
+    {
+      "question": "Betawi disebut unik karena menggabungkan budaya ...",
+      "options": [
+        "Bali, Papua, dan Aceh",
+        "Sunda, Bali, dan Jawa",
+        "Melayu, Cina, Arab, dan Jawa",
+        "Eropa dan Amerika"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Menurut tokoh dari Sunda, angklung adalah alat musik yang ...",
+      "options": [
+        "hanya dapat dimainkan oleh satu orang",
+        "digunakan untuk upacara di Bali",
+        "terbuat dari batu",
+        "dapat dimainkan bersama-sama untuk menciptakan harmoni"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "Tari Bali yang ditampilkan di pameran menggambarkan ...",
+      "options": [
+        "rasa syukur kepada alam dan pencipta",
+        "peperangan zaman dahulu",
+        "kegiatan berburu",
+        "persiapan panen padi"
+      ],
       "answer": 0
     },
     {
-      "question": "Warna kulit teman berbeda-beda. Kita harus...",
-      "options": ["Bertengkar", "Menghormati", "Mengejek", "Menolak berteman"],
+      "question": "Tokoh dari Papua mengatakan bahwa mereka sering membuat ...",
+      "options": [
+        "kain tenun",
+        "ukiran di kayu atau batu",
+        "canang sari",
+        "lukisan mural"
+      ],
       "answer": 1
     },
     {
-      "question": "Indonesia memiliki banyak...",
-      "options": ["Mainan", "Suku dan budaya", "Sekolah", "Tas"],
-      "answer": 1
+      "question": "Seorang pengunjung bertanya, 'Bagaimana caranya supaya kita bisa lebih menghargai keberagaman di dunia ini?', Jawaban tokoh dalam komik adalah ...",
+      "options": [
+        "Kita harus memilih teman yang sama dengan kita",
+        "Kita cukup mengenal budaya sendiri",
+        "Kita harus belajar memahami dan menghormati satu sama lain, apa pun perbedaannya",
+        "Kita harus menghindari orang dari daerah lain"
+      ],
+      "answer": 2
     },
     {
-      "question": "Perbedaan membuat dunia menjadi...",
-      "options": ["Membosankan", "Berwarna dan indah", "Menakutkan", "Sulit"],
-      "answer": 1
+      "question": "Ada teman baru di kelasmu yang berasal dari daerah lain dan berbicara dengan logat yang berbeda. Sikap yang sesuai dengan pesan Tema E adalah ...",
+      "options": [
+        "menirukan logatnya untuk bercanda",
+        "tidak mau duduk di dekatnya",
+        "membiarkannya bermain sendirian",
+        "mengajaknya berteman dan belajar tentang budayanya"
+      ],
+      "answer": 3
     }
   ]
 }

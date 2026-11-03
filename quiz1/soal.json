@@ -3,29 +3,104 @@
   "title": "Beriman Bertakwa dan Berakhlak Mulia",
   "questions": [
     {
-      "question": "Apa yang kita lakukan sebelum makan?",
-      "options": ["Bermain", "Berdoa", "Tidur", "Menonton TV"],
+      "question": "Di mana lima anak berkumpul pada awal cerita Tema A?",
+      "options": [
+        "Di halaman sekolah",
+        "Di taman kota yang ramai",
+        "Di balai desa",
+        "Di ruang pameran budaya"
+      ],
       "answer": 1
     },
     {
-      "question": "Saat bertemu guru, kita harus...",
-      "options": ["Diam saja", "Berlari", "Memberi salam", "Sembunyi"],
-      "answer": 2
-    },
-    {
-      "question": "Jika meminjam mainan teman, kita harus...",
-      "options": ["Merusaknya", "Membawanya pulang", "Mengembalikannya", "Menyembunyikannya"],
-      "answer": 2
-    },
-    {
-      "question": "Mengucapkan terima kasih adalah contoh...",
-      "options": ["Akhlak baik", "Bermain", "Belajar", "Berlari"],
+      "question": "Menurut tokoh dari Aceh, salah satu cara beriman adalah ...",
+      "options": [
+        "menjalankan shalat lima waktu setiap hari",
+        "membuat canang sari untuk berdoa",
+        "berburu ke hutan bersama keluarga",
+        "mengadakan upacara adat"
+      ],
       "answer": 0
     },
     {
-      "question": "Jika melakukan kesalahan, kita harus...",
-      "options": ["Marah", "Kabur", "Meminta maaf", "Menangis"],
+      "question": "Anak-anak dalam komik mengatakan bahwa bertakwa bukan hanya soal ibadah, tetapi juga tentang ...",
+      "options": [
+        "memiliki banyak teman",
+        "memenangkan perlombaan",
+        "cara kita berperilaku, seperti jujur, sabar, dan saling membantu",
+        "memakai pakaian adat setiap hari"
+      ],
       "answer": 2
+    },
+    {
+      "question": "Bagaimana cara tokoh dari Sunda menjaga akhlak dalam berbicara?",
+      "options": [
+        "Berbicara dengan suara keras agar didengar",
+        "Berbicara lembut dan menghindari perkataan yang kasar",
+        "Hanya berbicara dengan teman dekat",
+        "Tidak mau berbicara dengan orang lain"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Tokoh dari Betawi diajarkan oleh orang tuanya untuk ...",
+      "options": [
+        "bermain sepanjang hari",
+        "menunggu bantuan dari orang lain",
+        "mengerjakan semua hal sendirian",
+        "menghormati yang lebih tua dan membantu yang lebih muda"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "Kisah dari Aceh yang diceritakan dalam komik adalah tentang seorang petani yang ...",
+      "options": [
+        "menyelamatkan hewan-hewan yang terluka",
+        "sabar mengajari murid-muridnya",
+        "bersyukur atas hasil panennya dan berbagi dengan orang yang lebih miskin",
+        "menjaga keharmonisan antara masyarakat dan alam"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Kegiatan apa yang dilakukan anak-anak sebagai wujud rasa syukur dan kepedulian?",
+      "options": [
+        "Mengadakan acara berbagi makanan untuk orang-orang yang membutuhkan",
+        "Mengadakan lomba kebersihan antarkelas",
+        "Membuat pameran budaya",
+        "Membersihkan taman bermain desa"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Tokoh dari Papua menjaga alam dengan tidak merusaknya. Mengapa ia melakukan hal itu?",
+      "options": [
+        "Karena takut dimarahi orang tua",
+        "Karena menjaga alam adalah bagian dari tanggung jawab kepada Tuhan",
+        "Karena ingin mendapat hadiah",
+        "Karena disuruh oleh guru"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Apa pesan (amanat) utama Tema A?",
+      "options": [
+        "Setiap daerah harus memiliki agama yang sama",
+        "Berbuat baik hanya kepada teman dekat",
+        "Ibadah lebih penting daripada perilaku",
+        "Dengan iman, takwa, dan akhlak mulia, kita bisa hidup berdampingan dengan damai meskipun berbeda"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "Kamu melihat teman yang berbeda agama kesulitan membawa banyak buku. Sikap yang sesuai dengan isi komik adalah ...",
+      "options": [
+        "membiarkannya karena ia bukan teman dekatmu",
+        "membantunya, karena berbuat baik tidak memandang siapa orangnya",
+        "menunggu sampai guru datang membantunya",
+        "menertawakannya bersama teman lain"
+      ],
+      "answer": 1
     }
   ]
 }

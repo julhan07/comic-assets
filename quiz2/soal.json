@@ -3,29 +3,94 @@
   "title": "Bersatu Dalam Gotong Royong",
   "questions": [
     {
-      "question": "Saat kelas kotor, kita sebaiknya...",
-      "options": ["Membiarkannya", "Membersihkan bersama", "Pulang", "Bermain"],
+      "question": "Siapa yang mengajak anak-anak untuk membersihkan taman bermain desa?",
+      "options": [
+        "Kepala sekolah",
+        "Pak Kepala Desa",
+        "Orang tua Hasan",
+        "Guru kelas"
+      ],
       "answer": 1
     },
     {
-      "question": "Gotong royong artinya...",
-      "options": ["Bekerja sendiri", "Bermain sendiri", "Bekerja bersama-sama", "Tidur bersama"],
+      "question": "Di mana kelima anak berkumpul setelah mendengar pengumuman?",
+      "options": [
+        "Di taman kota",
+        "Di halaman sekolah",
+        "Di balai desa",
+        "Di lapangan sepak bola"
+      ],
       "answer": 2
     },
     {
-      "question": "Jika teman kesulitan membawa buku, kita...",
-      "options": ["Menertawakan", "Membantu", "Mengabaikan", "Pergi"],
-      "answer": 1
+      "question": "Di Aceh, gotong royong disebut ...",
+      "options": ["rukun", "ngayah", "hajatan", "meuseuraya"],
+      "answer": 3
     },
     {
-      "question": "Saat bermain kelompok, kita harus...",
-      "options": ["Bertengkar", "Saling membantu", "Menang sendiri", "Marah"],
-      "answer": 1
-    },
-    {
-      "question": "Manfaat gotong royong adalah...",
-      "options": ["Pekerjaan lebih ringan", "Lebih sulit", "Lebih lama", "Membosankan"],
+      "question": "Tradisi ngayah di Bali berarti ...",
+      "options": [
+        "membantu tanpa mengharapkan imbalan",
+        "bekerja bersama saat ada hajatan",
+        "membangun rumah bersama-sama",
+        "menari bersama untuk merayakan panen"
+      ],
       "answer": 0
+    },
+    {
+      "question": "Apa tugas Asep saat bergotong royong di taman?",
+      "options": [
+        "Menyapu daun-daun kering",
+        "Membersihkan perosotan",
+        "Membawa cangkul untuk meratakan tanah",
+        "Mengangkat batu-batu besar"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Siapa yang bertugas mengangkat batu-batu besar?",
+      "options": ["Hasan", "Yohan", "Fatimah", "Komang"],
+      "answer": 1
+    },
+    {
+      "question": "Fatimah berkata, \"Wah, kalau kita kerja bareng begini, cepat selesai!\" Kalimat itu menunjukkan manfaat gotong royong, yaitu ...",
+      "options": [
+        "pekerjaan menjadi lebih berat",
+        "setiap orang bekerja sendiri-sendiri",
+        "pekerjaan menjadi lebih lama",
+        "pekerjaan menjadi lebih cepat selesai"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "Apa yang dilakukan anak-anak setelah taman selesai dibersihkan?",
+      "options": [
+        "Bermain bersama di taman yang telah mereka bersihkan",
+        "Pulang ke rumah masing-masing",
+        "Membersihkan sekolah",
+        "Membuat pameran budaya"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Asep berkata, \"Aku jadi tahu kalau kita punya cara masing-masing untuk menyelesaikan pekerjaan.\" Maksud kalimat tersebut adalah ...",
+      "options": [
+        "setiap orang harus bekerja dengan cara yang sama",
+        "pekerjaan hanya bisa dilakukan oleh satu orang",
+        "setiap orang punya kemampuan berbeda yang saling melengkapi",
+        "pekerjaan tidak perlu dibagi-bagi"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Apa pesan (amanat) utama Tema B?",
+      "options": [
+        "Pekerjaan lebih baik dikerjakan sendirian",
+        "Gotong royong mempererat persatuan, dan bersama-sama kita bisa mencapai hal besar",
+        "Hanya orang dewasa yang perlu bergotong royong",
+        "Taman bermain hanya untuk anak-anak desa"
+      ],
+      "answer": 1
     }
   ]
 }

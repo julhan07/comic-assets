@@ -3,28 +3,103 @@
   "title": "Kreatif Dalam Keberagaman",
   "questions": [
     {
-      "question": "Menggambar adalah kegiatan...",
-      "options": ["Kreatif", "Marah", "Tidur", "Sedih"],
-      "answer": 0
-    },
-    {
-      "question": "Jika ingin membuat karya baru, kita harus...",
-      "options": ["Mencoba ide baru", "Diam", "Menunggu", "Meniru terus"],
-      "answer": 0
-    },
-    {
-      "question": "Setiap anak memiliki...",
-      "options": ["Ide yang sama", "Ide berbeda-beda", "Mainan sama", "Tas sama"],
+      "question": "Apa tema proyek yang dikerjakan lima anak dalam Tema F?",
+      "options": [
+        "Berpikir Kritis",
+        "Kreatif dalam Keberagaman",
+        "Gotong Royong",
+        "Hidup Mandiri"
+      ],
       "answer": 1
     },
     {
-      "question": "Membuat kolase dari daun adalah contoh...",
-      "options": ["Kreativitas", "Kemalasan", "Bermain bola", "Tidur"],
+      "question": "Karya apa yang ingin dibuat oleh Siti?",
+      "options": [
+        "Desain dengan elemen budaya Aceh, seperti ukiran, rumah adat, dan kain tenun",
+        "Instalasi seni angklung",
+        "Lukisan mural",
+        "Topeng kayu"
+      ],
       "answer": 0
     },
     {
-      "question": "Teman memiliki karya berbeda dengan kita. Kita harus...",
-      "options": ["Menghargai", "Mengejek", "Merobek", "Menyembunyikan"],
+      "question": "Karya apa yang dibuat oleh Asep?",
+      "options": [
+        "Patung kayu",
+        "Topeng Papua",
+        "Instalasi seni dari angklung",
+        "Cerita pendek"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Lukisan mural yang dibuat Fatimah menunjukkan ...",
+      "options": [
+        "keindahan alam Bali",
+        "kehidupan di hutan Papua",
+        "rumah adat Aceh",
+        "berbagai budaya di Jakarta, seperti Betawi, Cina, Arab, dan Jawa"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "Komang membuat karya berupa ...",
+      "options": [
+        "topeng dari kayu",
+        "patung dari kayu yang terinspirasi seni Bali dan alam sekitar",
+        "lukisan mural",
+        "desain ukiran Aceh"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Menurut tokoh dari Papua, topeng yang dibuatnya adalah lambang ...",
+      "options": [
+        "keberanian, kekuatan, dan keberagaman budaya Papua",
+        "kesedihan dan kemarahan",
+        "kekayaan dan kemewahan",
+        "perlombaan dan kemenangan"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Siti meminta Asep membantu menggambar pola, dan Fatimah menambahkan detail pada karyanya. Peristiwa ini menunjukkan bahwa ...",
+      "options": [
+        "setiap anak harus bekerja sendiri",
+        "karya terbaik dibuat oleh satu orang",
+        "saling membantu membuat hasil karya menjadi lebih baik",
+        "mereka tidak bisa menyelesaikan karya sendiri"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Komang berkata, 'Seni adalah bahasa universal.' Maksud kalimat tersebut adalah ...",
+      "options": [
+        "seni hanya bisa dipahami oleh seniman",
+        "seni harus menggunakan bahasa Inggris",
+        "setiap daerah memiliki seni yang sama",
+        "seni dapat menghubungkan semua orang tanpa membeda-bedakan"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "Apa pesan seorang pengunjung kepada anak-anak di akhir pameran?",
+      "options": [
+        "Agar mereka berhenti membuat karya",
+        "Karya mereka mengajarkan untuk lebih mencintai budaya sendiri dan budaya orang lain, serta agar terus berkarya",
+        "Agar mereka menjual karyanya",
+        "Agar mereka hanya membuat karya dari budaya sendiri"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Mengapa kreativitas menjadi lebih kuat jika kita saling mendukung?",
+      "options": [
+        "Karena ide-ide yang berbeda dapat digabungkan dan saling melengkapi",
+        "Karena pekerjaan menjadi lebih sedikit",
+        "Karena tidak perlu berpikir sendiri",
+        "Karena karya akan lebih cepat dijual"
+      ],
       "answer": 0
     }
   ]
